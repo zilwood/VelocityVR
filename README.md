@@ -1,4 +1,5 @@
 # VelocityVR
+Virtual Shopping Experience
 ## Inspiration:
 Virtual Shopping.
 ## What it does: 
